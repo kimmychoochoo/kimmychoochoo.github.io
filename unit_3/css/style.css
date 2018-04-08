@@ -1,9 +1,12 @@
 body {
 	background: url("images/chocolate cake.jpg");
 	background-size: cover
-	font-family: Helvetica;
+	font-style: Helvetica;
 	text-align: center;
 }
 h3{
 	font-style: italic;
+}
+li{
+	text-align: center;
 }
