@@ -7,6 +7,10 @@ body {
 }
 h3{
 	font-style: italic;
+	background-color: #000000;
+}
+p{
+	background-color: #000000;
 }
 li{
 	text-align: center;
