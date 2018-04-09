@@ -3,7 +3,8 @@ body {
 	background: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-653748450-1523095054.jpg");
 	background-size: cover;
 	font-family: Courier;
-	color:#FFD973;
+	color:#7EE84C;
+	font-size: 22px;
 }
 h1 {
 	color:#7566E8;
@@ -11,9 +12,6 @@ h1 {
 h3 {
 	font-style: italic;
 	color:#FF6CA6;
-}
-p {
-	font-size: 22px;
 }
 ul{
 	text-align: center;
