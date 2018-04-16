@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+</style>
 body {
 	text-align: center;
 	background: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-653748450-1523095054.jpg");
@@ -7,6 +10,7 @@ body {
 	font-size: 22px;
 }
 h1 {
+	font-family: "Gloria Hallelujah", cursive;
 	color:#7566E8;
 }
 h3 {
