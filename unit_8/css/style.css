@@ -1,0 +1,65 @@
+header {
+	background-color: #FF807C;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #C0BDE8;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color: #89FFC9;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E8DE71;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF9B7C;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+
+
+
+
+
+
+
